@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furqan Qadri</h1>
 <h3 align="center">A passionate developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furqan-qadri" alt="furqan-qadri" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/t1furqan" target="blank"><img src="https://img.shields.io/twitter/follow/t1furqan?logo=twitter&style=for-the-badge" alt="t1furqan" /></a> </p>
 
@@ -26,5 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furqan-qadri&show_icons=true&locale=en&layout=compact" alt="furqan-qadri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furqan-qadri&show_icons=true&locale=en" alt="furqan-qadri" /></p>
+
 
