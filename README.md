@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furqan Qadri</h1>
-<h3 align="center">A passionate developer from Kashmir</h3>
+<h3 align="center">A passionate developer from Yorkshire</h3>
 
 <p align="left"> <a href="https://twitter.com/t1furqan" target="blank"><img src="https://img.shields.io/twitter/follow/t1furqan?logo=twitter&style=for-the-badge" alt="t1furqan" /></a> </p>
 
