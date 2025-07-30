@@ -10,6 +10,8 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@furqanqadri)
 
 - 📫 How to reach me: furqaanqadri@gmail.com
+  
+-  👨‍💻 Check out my LinkedIn [LinkedIn](https://www.linkedin.com/in/furqan-qadri/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
